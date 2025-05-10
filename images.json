@@ -1,0 +1,30 @@
+[
+  {
+    "id": "img001",
+    "src": "images/arte-cosmica.jpeg",
+    "title": "Nebulosa Sombria",
+    "description": "Uma exploração de texturas cósmicas e cores vibrantes gerada por IA. Prompt: 'galáxia escura com estrelas brilhantes em tons de roxo e azul'.",
+    "date": "2023-10-25"
+  },
+  {
+    "id": "img002",
+    "src": "images/robo-futurista.jpeg",
+    "title": "Sentinela Cyberpunk",
+    "description": "Conceito de um robô observador em uma cidade noturna cyberpunk. Gerado com foco em detalhes metálicos e iluminação neon.",
+    "date": "2023-10-20"
+  },
+  {
+    "id": "img003",
+    "src": "images/floresta-magica.jpeg",
+    "title": "Sussurros da Floresta Antiga",
+    "description": "Uma floresta encantada banhada por uma luz suave e etérea, com árvores ancestrais e criaturas místicas ocultas.",
+    "date": "2023-10-15"
+  },
+  {
+    "id": "img004",
+    "src": "images/retrato-surreal.jpeg",
+    "title": "O Olhar do Inconsciente",
+    "description": "Retrato surrealista que busca representar a fluidez dos sonhos e pensamentos. Cores pastéis e formas orgânicas.",
+    "date": "2023-10-10"
+  }
+]

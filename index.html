@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galeria de Arte IA - [Seu Nome/Apelido]</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Minha Galeria de Criações IA</h1>
+        <p>Explorando os limites da criatividade com Inteligência Artificial</p>
+    </header>
+
+    <main>
+        <div id="gallery-container" class="gallery-grid">
+            <!-- As imagens serão carregadas aqui pelo JavaScript -->
+        </div>
+    </main>
+
+    <footer>
+        <p>© 2023 [Seu Nome/Apelido]. Todas as imagens geradas por IA.</p>
+    </footer>
+
+    <!-- Modal para visualização da imagem -->
+    <div id="image-modal" class="modal">
+        <span class="close-button">×</span>
+        <div class="modal-content-wrapper">
+            <img class="modal-content" id="modal-img-src" alt="Imagem ampliada">
+            <div id="modal-caption" class="caption">
+                <h3 id="modal-title"></h3>
+                <p id="modal-description"></p>
+                <small id="modal-date"></small>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
